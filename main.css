@@ -1,0 +1,165 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body{
+  text-align: center;
+}
+*{
+  margin:0;
+  padding:0;
+}
+div.hero{
+
+  background-image: url(photographer.jpg);
+  height: 100vh;
+  background-position: top center;
+  background-size: cover;
+  position: relative;
+
+}
+
+div.boton {
+  padding: 200px 0;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  
+   
+    
+}
+
+ 
+.button {
+  background-color: 
+  orange;
+  padding: 40px 100px ;
+    text-decoration: none;
+    color:#faebeb;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 10px;
+    display: inline-block;
+    border: 2px solid;
+    text-align: center;
+   border-color:5px solid #ffffff;
+
+}
+.button.hollow,
+ .button.hollow:hover{
+  background-color: transparent;
+     color:#faebeb;
+    
+ }
+ div.navegacion{
+  
+  background-color: #ebdcff;
+  width: 100%; 
+  
+ 
+   
+ }
+ 
+ nav.nav{
+  background-color: #eff5d8;
+  padding: 10px 10px;
+  margin-right: 10px;
+  border: 1px solid;position: relative;
+  bottom: 20px;
+  
+  display: inline-block;
+  font-family:cursive;
+  text-align: center;
+ position: relative;
+ border-color: rgb(216, 223, 230);
+ border-style: 20px ridge;
+ right:-400px;
+ }
+
+ nav.nav a{
+  color: rgb(14, 15, 15);
+   padding: 20px;
+  text-decoration: none;
+ }
+
+ div.contenido-contacto{
+    background-color: rgb(215, 241, 241);
+    padding: 20px;
+    max-width:1200px;
+    float: right;
+
+
+
+ }
+div.w3-section{
+
+  padding: 20px;
+   
+ }
+   
+
+
+ 
+
+ p{
+
+  padding: 20px;
+  margin:20px;
+  font-size: 20px;
+  font:bold 20px verdana, sans-serif;
+
+
+
+ }
+
+ h3{
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  padding: 20px;
+ }
+ div.w3-section{
+
+  text-transform: uppercase;
+  
+ }
+ .button.Send{
+
+  background-color: blueviolet;
+  padding: 1px;
+    width: 100%;
+ }
+ 
+
+
+  
+
+ 
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+  
+
+
+ 
+
+
+
+ 
+
+
+
+
